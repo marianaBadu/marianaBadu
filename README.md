@@ -22,7 +22,7 @@
   
   ### Redes Sociais
   
-  <a href="https://www.linkedin.com/in/mariana-badu-896627198/details/skills/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mariana-badu-896627198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/mbaduup" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
    ![Snake animation](https://github.com/marianaBadu/marianaBadu/blob/output/github-contribution-grid-snake.svg)
